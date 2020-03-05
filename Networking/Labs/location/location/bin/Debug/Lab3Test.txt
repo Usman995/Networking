@@ -1,0 +1,44 @@
+19/02/2020 12:21:56.40 All tests completed: 3 passed, 1 advisory, 1 failed. 
+19/02/2020 12:22:34.74 All tests completed: 3 passed, 1 advisory, 1 failed. 
+19/02/2020 12:26:12.16 All tests completed: 3 passed, 1 advisory, 1 failed. 
+19/02/2020 13:59:44.56 All tests completed: 3 passed, 1 advisory, 1 failed. 
+19/02/2020 14:01:04.26 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+19/02/2020 14:06:37.99 All tests of location completed: 2 passed, 1 advisory, 1 failed (of 111 total). 
+19/02/2020 14:07:13.06 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+20/02/2020  9:45:47.20 All tests completed: 3 passed, 1 advisory, 1 failed. 
+20/02/2020 10:37:49.03 All tests of location completed: 2 passed, 1 advisory, 1 failed (of 111 total). 
+20/02/2020 14:37:53.07 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+20/02/2020 14:39:31.79 All tests completed: 3 passed, 1 advisory, 1 failed. 
+20/02/2020 14:40:58.50 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+20/02/2020 17:58:28.75 All tests of location completed: 16 passed, 2 advisory, 2 failed (of 111 total). 
+20/02/2020 18:01:41.65 All tests of location completed: 16 passed, 2 advisory, 2 failed (of 111 total). 
+20/02/2020 18:19:17.88 All tests of location completed: 2 passed, 1 advisory, 1 failed (of 111 total). 
+20/02/2020 18:20:41.94 All tests of location completed: 2 passed, 1 advisory, 1 failed (of 111 total). 
+20/02/2020 18:21:49.01 All tests of location completed: 2 passed, 1 advisory, 1 failed (of 111 total). 
+20/02/2020 18:23:10.25 All tests of location completed: 2 passed, 1 advisory, 1 failed (of 111 total). 
+20/02/2020 18:26:00.52 All tests of location completed: 16 passed, 4 advisory, 0 failed (of 111 total). 
+20/02/2020 18:39:04.13 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+20/02/2020 18:41:42.49 All tests of location completed: 16 passed, 4 advisory, 0 failed (of 111 total). 
+21/02/2020 13:18:51.55 All tests of location completed: 3 passed, 1 advisory, 0 failed (of 111 total). 
+21/02/2020 13:20:32.95 All tests of location completed: 11 passed, 9 advisory, 0 failed (of 111 total). 
+21/02/2020 13:30:21.72 All tests of location completed: 16 passed, 4 advisory, 0 failed (of 111 total). 
+21/02/2020 14:36:39.17 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+21/02/2020 14:50:51.65 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+21/02/2020 15:26:34.64 All tests of location completed: 18 passed, 0 advisory, 2 failed (of 111 total). 
+21/02/2020 15:28:05.43 All tests of location completed: 1 passed, 1 advisory, 0 failed (of 111 total). 
+21/02/2020 16:38:11.13 All tests of location completed: 0 passed, 1 advisory, 0 failed (of 111 total). 
+21/02/2020 16:58:07.91 All tests of location completed: 0 passed, 1 advisory, 0 failed (of 111 total). 
+21/02/2020 17:11:11.70 All tests of location completed: 0 passed, 1 advisory, 0 failed (of 111 total). 
+21/02/2020 17:12:42.31 All tests of location completed: 0 passed, 1 advisory, 0 failed (of 111 total). 
+21/02/2020 17:52:10.51 All tests of location completed: 20 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for USMAN USMAN (568448) at 21/02/2020 17:52:12.48 on RB-209B-40 
+21/02/2020 18:09:59.59 All tests of location completed: 99 passed, 10 advisory, 0 failed (of 111 total). 
+23/02/2020 17:29:05.52 All tests of location completed: 89 passed, 20 advisory, 0 failed (of 111 total). 
+23/02/2020 18:00:09.39 All tests completed: 1 passed, 0 advisory, 1 failed. 
+23/02/2020 18:01:11.57 All tests completed: 1 passed, 0 advisory, 1 failed. 
+23/02/2020 18:23:47.73 All tests completed: 1 passed, 0 advisory, 1 failed. 
+23/02/2020 18:24:10.35 All tests completed: 1 passed, 0 advisory, 1 failed. 
+23/02/2020 18:25:57.49 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+23/02/2020 19:06:51.67 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+23/02/2020 19:25:02.32 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for USMAN USMAN (568448) at 23/02/2020 19:25:04.19 on BJL-3F-18 

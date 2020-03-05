@@ -1,0 +1,7 @@
+G:\Networking\Labs\Locationserver\Locationserver\Locationserver\bin\Debug\Locationserver.exe.config
+G:\Networking\Labs\Locationserver\Locationserver\Locationserver\bin\Debug\Locationserver.exe
+G:\Networking\Labs\Locationserver\Locationserver\Locationserver\bin\Debug\Locationserver.pdb
+G:\Networking\Labs\Locationserver\Locationserver\Locationserver\obj\Debug\Locationserver.csprojAssemblyReference.cache
+G:\Networking\Labs\Locationserver\Locationserver\Locationserver\obj\Debug\Locationserver.csproj.CoreCompileInputs.cache
+G:\Networking\Labs\Locationserver\Locationserver\Locationserver\obj\Debug\Locationserver.exe
+G:\Networking\Labs\Locationserver\Locationserver\Locationserver\obj\Debug\Locationserver.pdb

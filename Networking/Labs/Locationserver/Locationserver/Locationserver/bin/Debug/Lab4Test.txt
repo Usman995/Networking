@@ -1,0 +1,7 @@
+04/03/2020 11:49:37.44 All tests of whois.net.dcs.hull.ac.uk completed: 15 passed, 3 advisory, 0 failed (of 168 total). 
+04/03/2020 12:05:19.84 All tests completed: 9 passed, 0 advisory, 2 failed. 
+04/03/2020 12:19:40.45 All tests of whois.net.dcs.hull.ac.uk completed: 145 passed, 21 advisory, 0 failed (of 168 total). 
+04/03/2020 12:37:51.96 All tests of whois.net.dcs.hull.ac.uk completed: 154 passed, 12 advisory, 0 failed (of 168 total). 
+05/03/2020 12:34:17.95 All tests of whois.net.dcs.hull.ac.uk completed: 161 passed, 5 advisory, 0 failed (of 168 total). 
+05/03/2020 13:14:48.63 All tests of whois.net.dcs.hull.ac.uk completed: 166 passed, 0 advisory, 0 failed (of 168 total). 
+Lab4Test can be signed off for USMAN USMAN (568448) at 05/03/2020 13:14:50.68 on BJL-2FE-02 

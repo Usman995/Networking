@@ -1,0 +1,7 @@
+G:\Networking\Labs\MyClient\MyClient\bin\Debug\MyClient.exe.config
+G:\Networking\Labs\MyClient\MyClient\bin\Debug\MyClient.exe
+G:\Networking\Labs\MyClient\MyClient\bin\Debug\MyClient.pdb
+G:\Networking\Labs\MyClient\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+G:\Networking\Labs\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+G:\Networking\Labs\MyClient\MyClient\obj\Debug\MyClient.exe
+G:\Networking\Labs\MyClient\MyClient\obj\Debug\MyClient.pdb

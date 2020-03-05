@@ -1,0 +1,7 @@
+G:\Networking\Labs\location\location\bin\Debug\location.exe.config
+G:\Networking\Labs\location\location\bin\Debug\location.exe
+G:\Networking\Labs\location\location\bin\Debug\location.pdb
+G:\Networking\Labs\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+G:\Networking\Labs\location\location\obj\Debug\location.exe
+G:\Networking\Labs\location\location\obj\Debug\location.pdb
+G:\Networking\Labs\location\location\obj\Debug\location.csprojAssemblyReference.cache

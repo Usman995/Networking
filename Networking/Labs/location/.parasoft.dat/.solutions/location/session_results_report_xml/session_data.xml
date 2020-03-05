@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><ResultsSession>
+   <SessionData configName="Example Configuration" enabledAnalysis="Static" enabledHandlers="com.parasoft.xtest.checkers.api.standards.factory;com.parasoft.xtest.checkers.api.scope.factory;com.parasoft.xtest.checkers.api.metrics.factory" header="?? ?? ??false??false??" runId="" startTime="1582480042610" tool="c++test">
+      <Authors/>
+      <Selection>
+         <Res id="location/location/Program.cs"/>
+      </Selection>
+      <XmlDataFiles/>
+   </SessionData>
+   <Locations/>
+   <MetricsNormal/>
+   <MetricsDetailed/>
+</ResultsSession>

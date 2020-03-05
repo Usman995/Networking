@@ -1,0 +1,23 @@
+05/02/2020 11:58:20.05 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+05/02/2020 12:13:11.85 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+05/02/2020 12:19:12.95 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+05/02/2020 12:21:58.94 All tests of location completed: 20 passed, 7 advisory, 1 failed (of 28 total). 
+05/02/2020 12:23:05.37 All tests of location completed: 5 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for USMAN USMAN (568448) at 05/02/2020 12:23:07.67 on FEN-052-089 
+05/02/2020 12:41:49.43 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+05/02/2020 12:43:04.85 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+05/02/2020 12:49:39.14 All tests of location completed: 25 passed, 2 advisory, 1 failed (of 28 total). 
+05/02/2020 12:52:44.03 All tests of location completed: 26 passed, 2 advisory, 0 failed (of 28 total). 
+05/02/2020 12:59:23.79 All tests of location completed: 26 passed, 2 advisory, 0 failed (of 28 total). 
+05/02/2020 13:05:41.27 All tests of location completed: 27 passed, 1 advisory, 0 failed (of 28 total). 
+05/02/2020 13:10:15.15 All tests of location completed: 20 passed, 6 advisory, 2 failed (of 28 total). 
+05/02/2020 13:13:02.11 All tests of location completed: 3 passed, 1 advisory, 1 failed (of 28 total). 
+05/02/2020 13:14:01.21 All tests of location completed: 3 passed, 1 advisory, 1 failed (of 28 total). 
+05/02/2020 13:17:17.04 All tests of location completed: 27 passed, 1 advisory, 0 failed (of 28 total). 
+05/02/2020 13:21:08.11 All tests of location completed: 27 passed, 1 advisory, 0 failed (of 28 total). 
+05/02/2020 13:24:38.07 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for USMAN USMAN (568448) at 05/02/2020 13:24:39.92 on FEN-052-089 
+07/02/2020 14:32:55.71 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for USMAN USMAN (568448) at 07/02/2020 14:32:56.46 on FENN-177-20 
+04/03/2020 13:07:33.85 All tests of location completed: 28 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for USMAN USMAN (568448) at 04/03/2020 13:07:35.78 on FEN-052-111 
