@@ -1,0 +1,4 @@
+C:\Box\Box Sync\Lecturing\DistributedSystems\2021\ACW\NEW\DistSysAcw\DistSysAcwClient\bin\Debug\netcoreapp3.1\DistSysAcwClient.exe
+C:\Box\Box Sync\Lecturing\DistributedSystems\2021\ACW\NEW\DistSysAcw\DistSysAcwClient\obj\Debug\netcoreapp3.1\DistSysAcwClient.csprojAssemblyReference.cache
+C:\Box\Box Sync\Lecturing\DistributedSystems\2021\ACW\NEW\DistSysAcw\DistSysAcwClient\obj\Debug\netcoreapp3.1\DistSysAcwClient.AssemblyInfoInputs.cache
+C:\Box\Box Sync\Lecturing\DistributedSystems\2021\ACW\NEW\DistSysAcw\DistSysAcwClient\obj\Debug\netcoreapp3.1\DistSysAcwClient.AssemblyInfo.cs
